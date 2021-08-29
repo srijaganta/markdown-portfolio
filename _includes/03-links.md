@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+you can check out my other talks at [Github](https://lab.github.com/githubtraining/first-day-on-github)
